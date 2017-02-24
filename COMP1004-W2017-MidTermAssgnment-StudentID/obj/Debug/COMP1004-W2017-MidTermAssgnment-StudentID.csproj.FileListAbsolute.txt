@@ -1,0 +1,14 @@
+C:\Users\Tom\Documents\COMP1004\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.pdb
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.csprojResolveAssemblyReference.cache
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.AbilityForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.FinalForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.JobForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.Properties.Resources.resources
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.RaceForm.resources
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.csproj.GenerateResource.Cache
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.pdb
+C:\Users\MING\Desktop\college4\Visual studio\midterm\COMP1004-W2017-MidTermAssgnment-StudentID\COMP1004-W2017-MidTermAssgnment-StudentID\obj\Debug\COMP1004_W2017_MidTermAssgnment_StudentID.AboutBox.resources
